@@ -1,0 +1,13 @@
+@media(max-width:450px){
+    .container{
+        flex-direction: column;
+        margin: 15px auto;
+        height: 100%;
+    }
+
+    .colunas{
+       width: 80%;
+       
+    }
+}
+
